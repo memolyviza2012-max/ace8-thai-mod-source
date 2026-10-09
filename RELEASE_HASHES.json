@@ -1,0 +1,51 @@
+{
+  "version": "2.3",
+  "release_zip_filename": "ACE_COMBAT_8_WINGS_OF_THEVE_ThaiMod_v2.3.zip",
+  "release_zip_sha256": "37b832a42f67e74133cf05afceaa0be339e86407ed626dd9ecea2b2d843e1aa7",
+  "released_files": {
+    "ACE8ThaiLauncher.exe": "afd48ae3114a2c990b0a5dea39893f18371545b12ae1b71d8a18002a2726e14c",
+    "README_TH.txt": "f9b5d0c2a26184a47f7082e765ec0c39b09a7cab51ed0d76fcebedfff8aeb6eb",
+    "\u0e04\u0e39\u0e48\u0e21\u0e37\u0e2d\u0e15\u0e34\u0e14\u0e15\u0e31\u0e49\u0e07_README.txt": "f9b5d0c2a26184a47f7082e765ec0c39b09a7cab51ed0d76fcebedfff8aeb6eb",
+    "ACE8Thai_Licenses/MinHook_LICENSE.txt": "4f21f857550d7be854da6ea5f2da4e6775ca4e3fbb535e4f3d961c47d0bf3335",
+    "ACE8Thai_Licenses/Prompt_OFL.txt": "1d08c63944e639bbfe8a1b81e3c6a63836806c126b3573b9cda0db83fd27ffe9",
+    "ACE8Thai_Licenses/UE4SS_MIT.txt": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e",
+    "EasyAntiCheat/ACE8Thai_Offline.json": "3cdd1f16ae29e2aebeebcdb217cf939d28c908b16641043c172ab1a1d0dd8e3f",
+    "Game/Binaries/Win64/dinput8.dll": "d4e3b916fd4f0610a33a125636c5b62ee6c90255aa2e09f5b52954e5b22d9765",
+    "Game/Binaries/Win64/dwmapi.dll": "c5d2ab9f9b89bd94460b0a283eefb113085105014011cac961f36787376db744",
+    "Game/Binaries/Win64/override.txt": "226f0ee2280ba30782521623b37382c9954ccc45f6b6cb105f80211acdc20d86",
+    "Game/Binaries/Win64/UE4SS/LICENSE": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e",
+    "Game/Binaries/Win64/UE4SS/UE4SS-settings.ini": "946f828db0e08a00f8effda306e2167fde79a3937528b73e3508f1beb13fb6ca",
+    "Game/Binaries/Win64/UE4SS/UE4SS.dll": "3fc1cd877007499e8c4f2152e12f76098aba8e267b7ee65846edc17cf7a0d1a4",
+    "Game/Binaries/Win64/UE4SS/Mods/mods.txt": "ac4b9ac23ae671e84acee7d6eccef4a5d77b079696188a3b9f561da5de3c5faf",
+    "Game/Binaries/Win64/UE4SS/Mods/ACE8ThaiProbe/Scripts/main.lua": "5d22cdd774bdd4b719aa0302ecb86ae8ecad9c09927d7fc6085fdb94dfc3fa7a",
+    "Game/Content/Paks/pakchunk0-Windows_999_P.pak": "990059d5de0c06815551f6a1294137376bdbe67fd926499fa6968cd97d89317f",
+    "Game/Content/Paks/pakchunk0-Windows_999_P.ucas": "5cff0fdef7c3190e6c59e4fd6f57d6a83c40c841c176469db2d6558e4c50ab08",
+    "Game/Content/Paks/pakchunk0-Windows_999_P.utoc": "26a0e0210efc55e78fcc2be23d09764de99be3cd932c616bf24a5f09a6d2e6a3"
+  },
+  "binary_comparison_to_v2_0": [
+    {
+      "path": "ACE8ThaiLauncher.exe",
+      "sha256": "afd48ae3114a2c990b0a5dea39893f18371545b12ae1b71d8a18002a2726e14c",
+      "identical_to_v2_0": true,
+      "pe_machine": "AMD64"
+    },
+    {
+      "path": "Game/Binaries/Win64/dinput8.dll",
+      "sha256": "d4e3b916fd4f0610a33a125636c5b62ee6c90255aa2e09f5b52954e5b22d9765",
+      "identical_to_v2_0": true,
+      "pe_machine": "AMD64"
+    },
+    {
+      "path": "Game/Binaries/Win64/dwmapi.dll",
+      "sha256": "c5d2ab9f9b89bd94460b0a283eefb113085105014011cac961f36787376db744",
+      "identical_to_v2_0": true,
+      "pe_machine": "AMD64"
+    },
+    {
+      "path": "Game/Binaries/Win64/UE4SS/UE4SS.dll",
+      "sha256": "3fc1cd877007499e8c4f2152e12f76098aba8e267b7ee65846edc17cf7a0d1a4",
+      "identical_to_v2_0": true,
+      "pe_machine": "AMD64"
+    }
+  ]
+}

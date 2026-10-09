@@ -1,0 +1,24 @@
+{
+  "builds": [
+    {
+      "component": "launcher",
+      "build_exit_code": 0,
+      "rebuilt_sha256": "be694bc1d6385bbf94ecb33e726f4ca1ada3429746bdc27b7b7b9d81aab89046",
+      "released_sha256": "afd48ae3114a2c990b0a5dea39893f18371545b12ae1b71d8a18002a2726e14c",
+      "byte_identical": false
+    },
+    {
+      "component": "native_loader",
+      "build_exit_code": 0,
+      "rebuilt_sha256": "a2ffafa034b7097cb7a5200364ad1172f7578db4b061a2cc28eaeec116db9d9c",
+      "released_sha256": "d4e3b916fd4f0610a33a125636c5b62ee6c90255aa2e09f5b52954e5b22d9765",
+      "byte_identical": false
+    }
+  ],
+  "portable_launcher_self_test_passed": true,
+  "game_launched": false,
+  "compiled_outputs_excluded_from_review_zip": true,
+  "byte_identical_output_not_required_due_to_compiler_PE_timestamps": true,
+  "reused_from_v2_1_build_verification": true,
+  "reason": "Exact custom sources and released EXE/DLL hashes unchanged; builds and no-game launcher self-test previously passed"
+}

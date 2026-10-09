@@ -1,0 +1,25 @@
+To: support@nexusmods.com
+Subject: Manual review request - ACE COMBAT 8 Thai Mod v2.3 (v2.0 and v2.2 quarantined)
+
+Hello Nexus Mods Support,
+
+Please review my ACE COMBAT 8 Thai localization update on:
+https://www.nexusmods.com/acecombat8wingsoftheve/mods/13?tab=files
+Version: 2.3
+File name: ACE_COMBAT_8_WINGS_OF_THEVE_ThaiMod_v2.3.zip
+SHA256: 37b832a42f67e74133cf05afceaa0be339e86407ed626dd9ecea2b2d843e1aa7
+
+My v2.0 and v2.2 uploads were quarantined. The author confirmed v2.2 quarantine on 2026-10-04. I have retained the previous uploads for your review and do not know which file or scan triggered quarantine.
+Quarantined v2.2 ZIP SHA256: 3f000ad6e088df79606c1cc69d0531e7717a1594d31aa6b334f6979e3f11e7fa
+
+Version 2.3 corrects Thai HUD sharpness/spacing and preserves the v2.2 translation. Latest runtime acceptance is pending. The launcher and DLLs are unchanged byte-for-byte; optional diagnostic CMD/PowerShell scripts are no longer part of the main package because they are not required to play.
+
+Attached is ACE8_ThaiMod_v2.3_Nexus_Source_Review.zip, containing the full custom launcher/native-loader sources, build instructions/scripts, exact MinHook dependency source, runtime configuration, component provenance, licenses, file hashes and isolated build results.
+README_REVIEW.md transparently describes the offline Null Client configuration and the game-specific guarded container/signature handling.
+The UE4SS third-party binaries are pinned to the AC8HOTAS v0.1.0 distribution; an exact corresponding UE4SS source commit is not established in our records.
+
+Could you identify any triggering component and let me know what changes are required for approval of this update? If a public source repository is required instead of the attached source, please let me know.
+If the new upload is quarantined, please review it in place. I am not requesting removal of scan controls or asserting a clean malware verdict.
+
+Thank you,
+NodNuatTranslator

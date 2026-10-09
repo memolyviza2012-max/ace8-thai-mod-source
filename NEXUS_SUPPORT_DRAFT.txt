@@ -1,0 +1,31 @@
+Subject: Public source code for manual review — ACE COMBAT 8 Thai Mod v2.3
+
+Hello Nexus Mods Support,
+
+I am following up on my existing quarantine review ticket.
+Nexus username: [ENTER YOUR NEXUS USERNAME]
+
+Mod page: https://www.nexusmods.com/acecombat8wingsoftheve/mods/13?tab=files
+Public source repository: https://github.com/memolyviza2012-max/ace8-thai-mod-source
+
+The repository contains the complete custom launcher/native-loader sources,
+build scripts, pinned MinHook source, runtime configuration, licenses, release
+SHA256 values and build verification. The launcher and native DLL compiled
+successfully from this published source. Compiler/PE metadata may change hashes;
+the verification report does not claim reproducible byte-identical binaries.
+
+Release: ACE_COMBAT_8_WINGS_OF_THEVE_ThaiMod_v2.3.zip
+SHA256: 37b832a42f67e74133cf05afceaa0be339e86407ed626dd9ecea2b2d843e1aa7
+Previously quarantined v2.2 ZIP SHA256:
+3f000ad6e088df79606c1cc69d0531e7717a1594d31aa6b334f6979e3f11e7fa
+
+The offline Null Client launch configuration and the guarded in-process
+authored-container signature handling are explained transparently in
+README_REVIEW.md. Third-party UE4SS loader provenance is documented separately;
+an exact matching UE4SS source commit is not established in our records.
+
+Could you review the quarantined file and identify any triggering component or
+required change? I am not asserting a confirmed false-positive or clean scan.
+
+Thank you,
+NodNuatTranslator

@@ -1,0 +1,26 @@
+{
+  "date_bangkok": "2026-10-09",
+  "builds": [
+    {
+      "component": "launcher",
+      "build_exit_code": 0,
+      "rebuilt_sha256": "421b36b9339922ebc7f333503c45a5c65280d3af477bb92dc0d38dab5ec236fa",
+      "released_sha256": "afd48ae3114a2c990b0a5dea39893f18371545b12ae1b71d8a18002a2726e14c",
+      "byte_identical": false
+    },
+    {
+      "component": "native_loader",
+      "build_exit_code": 0,
+      "rebuilt_sha256": "b024a7a0753bc2b95fab974a6df0c6314adf9983fbf361daff9de1a76c32eb28",
+      "released_sha256": "d4e3b916fd4f0610a33a125636c5b62ee6c90255aa2e09f5b52954e5b22d9765",
+      "byte_identical": false
+    }
+  ],
+  "launcher_no_game_selftest_passed": true,
+  "game_launched": false,
+  "game_written": false,
+  "released_file_hashes_verified": true,
+  "native_dll_loaded": false,
+  "reproducible_build_claim": false,
+  "compiler": "Visual Studio 2022 Build Tools 17.14.39; .NET Framework v4 C# compiler"
+}
