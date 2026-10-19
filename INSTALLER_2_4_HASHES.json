@@ -1,0 +1,180 @@
+{
+  "version": "2.4",
+  "installer_filename": "ACE8ThaiSetup_v2.4.exe",
+  "installer_sha256": "fdbe11825ab19bc503890037a2422b021932458e42dc6818c5a7f008c1c7dd22",
+  "installer_bytes": 15014912,
+  "player_zip_filename": "ACE8_ThaiMod_v2.4_Setup.zip",
+  "player_zip_sha256": "7d005d9dad8ff49dc4b7d67467e9e99629e661ea4d9b1d9cc257843ae7a7ad0a",
+  "player_zip_bytes": 14277979,
+  "resource_manifest_sha256": "17b586435d37150da339907866e6c59862dacbab196533de72e13d83d804175a",
+  "resource_payload_sha256": "49e016efc2de73a920be392b150fec4ca2515bb86a1b01548a51ad3ae5d0577e",
+  "header_sha256": "1603fa10a8021fccdb6949332141483e827d14d3dbcb298b973715d1da0269a9",
+  "program_icon_sha256": "e1c66fbfd116defce51d002d2e7687c0bb09af472536cc845a65ab3d33bc71a8",
+  "source_csv_sha256": "bafed7d72657b4e7df71bf589e3a853243625e9cd0bd29e6424155d16931ab69",
+  "payload_files": [
+    {
+      "path": "ACE8ThaiLauncher.exe",
+      "sha256": "afd48ae3114a2c990b0a5dea39893f18371545b12ae1b71d8a18002a2726e14c",
+      "bytes": 6656,
+      "known": [
+        "afd48ae3114a2c990b0a5dea39893f18371545b12ae1b71d8a18002a2726e14c"
+      ]
+    },
+    {
+      "path": "ACE8Thai_Licenses/MinHook_LICENSE.txt",
+      "sha256": "4f21f857550d7be854da6ea5f2da4e6775ca4e3fbb535e4f3d961c47d0bf3335",
+      "bytes": 4446,
+      "known": [
+        "4f21f857550d7be854da6ea5f2da4e6775ca4e3fbb535e4f3d961c47d0bf3335"
+      ]
+    },
+    {
+      "path": "ACE8Thai_Licenses/Prompt_OFL.txt",
+      "sha256": "1d08c63944e639bbfe8a1b81e3c6a63836806c126b3573b9cda0db83fd27ffe9",
+      "bytes": 4452,
+      "known": [
+        "1d08c63944e639bbfe8a1b81e3c6a63836806c126b3573b9cda0db83fd27ffe9"
+      ]
+    },
+    {
+      "path": "ACE8Thai_Licenses/UE4SS_MIT.txt",
+      "sha256": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e",
+      "bytes": 1085,
+      "known": [
+        "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e"
+      ]
+    },
+    {
+      "path": "EasyAntiCheat/ACE8Thai_Offline.json",
+      "sha256": "3cdd1f16ae29e2aebeebcdb217cf939d28c908b16641043c172ab1a1d0dd8e3f",
+      "bytes": 423,
+      "known": [
+        "3cdd1f16ae29e2aebeebcdb217cf939d28c908b16641043c172ab1a1d0dd8e3f"
+      ]
+    },
+    {
+      "path": "Game/Binaries/Win64/UE4SS/LICENSE",
+      "sha256": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e",
+      "bytes": 1085,
+      "known": [
+        "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e"
+      ]
+    },
+    {
+      "path": "Game/Binaries/Win64/UE4SS/Mods/ACE8ThaiProbe/Scripts/main.lua",
+      "sha256": "5d22cdd774bdd4b719aa0302ecb86ae8ecad9c09927d7fc6085fdb94dfc3fa7a",
+      "bytes": 2037,
+      "known": [
+        "280e433203905751c9bda99e1dd1491cc978c913468272ffbb58fcb84ebbf3da",
+        "5d22cdd774bdd4b719aa0302ecb86ae8ecad9c09927d7fc6085fdb94dfc3fa7a"
+      ]
+    },
+    {
+      "path": "Game/Binaries/Win64/UE4SS/Mods/mods.txt",
+      "sha256": "ac4b9ac23ae671e84acee7d6eccef4a5d77b079696188a3b9f561da5de3c5faf",
+      "bytes": 18,
+      "known": [
+        "ac4b9ac23ae671e84acee7d6eccef4a5d77b079696188a3b9f561da5de3c5faf"
+      ]
+    },
+    {
+      "path": "Game/Binaries/Win64/UE4SS/UE4SS-settings.ini",
+      "sha256": "946f828db0e08a00f8effda306e2167fde79a3937528b73e3508f1beb13fb6ca",
+      "bytes": 9425,
+      "known": [
+        "946f828db0e08a00f8effda306e2167fde79a3937528b73e3508f1beb13fb6ca"
+      ]
+    },
+    {
+      "path": "Game/Binaries/Win64/UE4SS/UE4SS.dll",
+      "sha256": "3fc1cd877007499e8c4f2152e12f76098aba8e267b7ee65846edc17cf7a0d1a4",
+      "bytes": 20605440,
+      "known": [
+        "3fc1cd877007499e8c4f2152e12f76098aba8e267b7ee65846edc17cf7a0d1a4"
+      ]
+    },
+    {
+      "path": "Game/Binaries/Win64/dinput8.dll",
+      "sha256": "d4e3b916fd4f0610a33a125636c5b62ee6c90255aa2e09f5b52954e5b22d9765",
+      "bytes": 151040,
+      "known": [
+        "d4e3b916fd4f0610a33a125636c5b62ee6c90255aa2e09f5b52954e5b22d9765"
+      ]
+    },
+    {
+      "path": "Game/Binaries/Win64/dwmapi.dll",
+      "sha256": "c5d2ab9f9b89bd94460b0a283eefb113085105014011cac961f36787376db744",
+      "bytes": 279552,
+      "known": [
+        "c5d2ab9f9b89bd94460b0a283eefb113085105014011cac961f36787376db744"
+      ]
+    },
+    {
+      "path": "Game/Binaries/Win64/override.txt",
+      "sha256": "226f0ee2280ba30782521623b37382c9954ccc45f6b6cb105f80211acdc20d86",
+      "bytes": 7,
+      "known": [
+        "226f0ee2280ba30782521623b37382c9954ccc45f6b6cb105f80211acdc20d86"
+      ]
+    },
+    {
+      "path": "Game/Content/Paks/pakchunk0-Windows_999_P.pak",
+      "sha256": "e01fc166c8a5a51e6df1a6ffe11e22f776a2bc96a2b84354776299062b3d3104",
+      "bytes": 5616220,
+      "known": [
+        "69ae99285a1bc50a62214af613a8b93c8373f7ec140201d3ec403cf8759f5d01",
+        "990059d5de0c06815551f6a1294137376bdbe67fd926499fa6968cd97d89317f",
+        "cc83772c31f23c7c8f22d67dbf46b7ab56c0ef507f610cbfdaa3f66680bcd3a5",
+        "de32e98d944b243a2fe8730c212074cdb1f575606956542c3d4cd188d4f05283",
+        "e01fc166c8a5a51e6df1a6ffe11e22f776a2bc96a2b84354776299062b3d3104"
+      ]
+    },
+    {
+      "path": "Game/Content/Paks/pakchunk0-Windows_999_P.ucas",
+      "sha256": "edef226c510101e926cdd42f438c6b953b2a588b0dc6c313855ceaf022575979",
+      "bytes": 20705527,
+      "known": [
+        "1ff4e8b17abf756c2951b27e4e80c610b9dae7668b7cb5f7495ab6032bb41ce3",
+        "392ede805d234c6210b0eb4ede33355fc94211cf3eac59899307474eb5c16e1d",
+        "5cff0fdef7c3190e6c59e4fd6f57d6a83c40c841c176469db2d6558e4c50ab08",
+        "7458fb9642c5991da4836ea95ce9f8892397caf8d355181039f5b380ec9dd6a1",
+        "7ffd44dea4a6f0bc633237a6f1d22d69219ad241302a384343da538f569baeeb",
+        "85741daf8645fdb168e08826659fd78e7de91b17c012fcd9d03aab244e5c1447",
+        "edef226c510101e926cdd42f438c6b953b2a588b0dc6c313855ceaf022575979"
+      ]
+    },
+    {
+      "path": "Game/Content/Paks/pakchunk0-Windows_999_P.utoc",
+      "sha256": "00fd168aabd401df10cfc2bb03aae10fb96d1fed0388156a5212be3ca1aca418",
+      "bytes": 4720,
+      "known": [
+        "00fd168aabd401df10cfc2bb03aae10fb96d1fed0388156a5212be3ca1aca418",
+        "0da2ad58007a003b54eef81594ca9c0a8ea173d8f3d8376b05054cc9ea4f8b61",
+        "1930a8ccefd5b171a662799916073d6849102f55f90185a61a2154c0d7b2b803",
+        "26a0e0210efc55e78fcc2be23d09764de99be3cd932c616bf24a5f09a6d2e6a3",
+        "67fee8f1d53c694f5c8053b6cbf50405fe42a81fa5ea8d1620418f75e85ed36e",
+        "a6105879a38613896888a9c8336d1af9d2790367af77dee5700905807df60672",
+        "d3daa7f7b8f40de6699bd6824a666a2217ebbbed2971a5d0b7db39ae25980d3c"
+      ]
+    },
+    {
+      "path": "README_TH.txt",
+      "sha256": "59e6bbae41c6c3650df5b655d3a2751d83d7e51a38dc0fb6a9ec6076391e4b4f",
+      "bytes": 4710,
+      "known": [
+        "f9b5d0c2a26184a47f7082e765ec0c39b09a7cab51ed0d76fcebedfff8aeb6eb"
+      ]
+    },
+    {
+      "path": "คู่มือติดตั้ง_README.txt",
+      "sha256": "59e6bbae41c6c3650df5b655d3a2751d83d7e51a38dc0fb6a9ec6076391e4b4f",
+      "bytes": 4710,
+      "known": [
+        "f9b5d0c2a26184a47f7082e765ec0c39b09a7cab51ed0d76fcebedfff8aeb6eb"
+      ]
+    }
+  ],
+  "tests_passed": 13,
+  "actual_game_launched": false,
+  "Nexus_approval": "not asserted"
+}

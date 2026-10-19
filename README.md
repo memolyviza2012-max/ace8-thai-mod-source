@@ -1,6 +1,6 @@
 # ACE COMBAT 8 Thai Mod — source for Nexus safety review
 
-Author: NodNuatTranslator (หน๊ด หนวด translator). Source snapshot for mod **v2.3**.
+Author: NodNuatTranslator (หน๊ด หนวด translator). Latest installer source: **v2.4**. Historical runtime source snapshot: v2.3 (launcher/native DLLs unchanged).
 
 Mod page: https://www.nexusmods.com/acecombat8wingsoftheve/mods/13?tab=files
 
@@ -46,3 +46,16 @@ previous source-review ZIP, rather than edited into a different implementation.
 Third-party components retain the licenses included under `licenses/` and
 `third_party/minhook/`. Custom source is published for inspection; no new blanket
 open-source license is asserted by this snapshot.
+
+
+## Installer 2.4 — 2026-10-19
+
+[Exact installer source and build/review guide](installer/2.4/README.md),
+[file hashes](INSTALLER_2_4_HASHES.json),
+[packaged installer tests](installer/2.4/TEST_RESULTS.json).
+
+New installer uses the same .NET WinForms branding style as the author's MW2019
+setup. This changes installation UX, not the safety status of ACE8's runtime
+DLLs. All 18 payload files and their known predecessor hashes are transparently
+listed in the embedded manifest; export mode permits resource inspection.
+No claim is made that packaging guarantees approval by Nexus scanners.

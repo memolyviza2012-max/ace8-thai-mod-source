@@ -1,0 +1,62 @@
+{
+  "actual_packaged_executable_sha256": "fdbe11825ab19bc503890037a2422b021932458e42dc6818c5a7f008c1c7dd22",
+  "tests": [
+    {
+      "case": "actual_packaged_exe_payload_path_and_space_selftest",
+      "pass": true
+    },
+    {
+      "case": "clean_install_repeat_uninstall_repeat_exact_originals",
+      "pass": true,
+      "seconds_install": 1.5470000000022992
+    },
+    {
+      "case": "known_manual_install_upgrade_then_clean_uninstall",
+      "pass": true
+    },
+    {
+      "case": "unknown_existing_DLL_rejected_before_write",
+      "pass": true
+    },
+    {
+      "case": "missing_original_launcher_rejected",
+      "pass": true
+    },
+    {
+      "case": "wrong_executable_rejected",
+      "pass": true
+    },
+    {
+      "case": "read_only_authored_target_rejected",
+      "pass": true
+    },
+    {
+      "case": "other_UE4SS_mod_preserved_and_rejected",
+      "pass": true
+    },
+    {
+      "case": "modified_installed_file_not_deleted_on_uninstall",
+      "pass": true
+    },
+    {
+      "case": "actual_process_termination_mid_install_recovery_then_uninstall",
+      "pass": true
+    },
+    {
+      "case": "hostile_pending_transaction_path_rejected",
+      "pass": true
+    },
+    {
+      "case": "corrupt_recovery_backup_rejected_before_restore",
+      "pass": true
+    },
+    {
+      "case": "running_game_guard_with_harmless_named_fixture",
+      "pass": true,
+      "actual_game_launched": false
+    }
+  ],
+  "passed": true,
+  "live_game_unchanged_by_installer_tests": true,
+  "actual_game_launched": false
+}
