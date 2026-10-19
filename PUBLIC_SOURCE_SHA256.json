@@ -17,7 +17,7 @@
   "installer/2.4/app.manifest": "78beec6f30360963081eec01838f8ea430732c4fef4dda446e7f4a25b02631e3",
   "installer/2.4/AutoGamePath.cs": "518c07b1b6f650e9272116653b59ed41ba6e0c5bdfc9b769af185ddde5cdec74",
   "installer/2.4/BrandedSetupWindow.cs": "3654a8e1a06a8a8c08a0545d3c492c5b822ba214588622da8a7a3687204a84a2",
-  "installer/2.4/BUILD.cmd": "ec6d9522c73328575b9559715a8bffe1480d40c68cb67aadb5471917056d38cf",
+  "installer/2.4/BUILD.cmd": "8c54e8f107ecb9e41eebea794446ba7aeca5fc04d3ac4e458a976c2f5d7ddd38",
   "installer/2.4/Engine.cs": "d27c98f3894ee554ce78f0756ceeb4db81704fd8d56df441e240e30130950b28",
   "installer/2.4/manifest.json": "17b586435d37150da339907866e6c59862dacbab196533de72e13d83d804175a",
   "installer/2.4/Program.cs": "1b000d9c87a5d8b7f7b8894e8a27af057535aee7893f8ad7c1755dbd71a4b3fd",
@@ -51,5 +51,6 @@
   "third_party/minhook/src/hde/hde64.h": "fd5b39e2865e12b9525ebda8fd9e9658b341ead5932d1bcb412a189f81ca42ca",
   "third_party/minhook/src/hde/pstdint.h": "975488009779ea99c7e04b83a160397d5cd7195cb5bf6ad79180805f756c7d00",
   "third_party/minhook/src/hde/table32.h": "e56f8641bd9133c1b99a1e6555b19eebe7ed663e5ea8de4edbe74ba461161ab4",
-  "third_party/minhook/src/hde/table64.h": "0b6c69ad498e67907e0c574ab06123aee4ec30c99fa181099ea929a8d820bfc1"
+  "third_party/minhook/src/hde/table64.h": "0b6c69ad498e67907e0c574ab06123aee4ec30c99fa181099ea929a8d820bfc1",
+  "installer/2.4/REBUILD_CHECK.json": "5022d40f50ef8cccc322402b9525d24f5e6969d1509bd4fd0a94330b9984e38d"
 }

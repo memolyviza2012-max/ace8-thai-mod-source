@@ -1,0 +1,7 @@
+{
+  "source_only_rebuild_with_exported_resources_passed": true,
+  "all_four_exported_resources_byte_identical": true,
+  "rebuilt_exe_selftest_passed": true,
+  "official_exe_unchanged": true,
+  "game_launched": false
+}
